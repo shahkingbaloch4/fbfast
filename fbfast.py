@@ -12,14 +12,14 @@ echo
 echo
 echo
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
-echo $i" |"$cy"     PAKISTAN DARK TERMUX ASSOCIATE"$i"         |"
+echo $i" |"$cy"     INDONESIA DARK TERMUX ASSOCIATE"$i"         |"
 echo $i" |"$me"─────────────────────────────────────────────"$i"|"
-echo $i" |"$pu" AUTHOR :"$ku" SHAH DINO BALOCH  [K_KOT]"$i"          |"
-echo $i" |"$pu" FACEBOOK :"$ku" SHAH DINO"$i"                   |"
-echo $i" |"$pu" THANKS TO :"$cy"~ [DINO] [AMEERR] [BUX]"$i"  |"
-echo $i" |"$cy"            ~ [Dino] [ Sd.S%] [AldykaPrygh]"$i" |"
-echo $i" |"$pu" Contack WhatsApp :"$ku" 03175889358"$i"             |"
-echo $i" |"$pu" Contack Gmail :"$ku" shahdinokhanbaloch334455@gmail.com"$i"      |"
+echo $i" |"$pu" AUTHOR :"$ku" RISKI DARMAWAN  [FR13ND8]"$i"          |"
+echo $i" |"$pu" FACEBOOK :"$ku" Riski Darmawan"$i"                   |"
+echo $i" |"$pu" THANKS TO :"$cy"~ [MR.P3RC1L] [MR.S∆MAx] [MR.B]"$i"  |"
+echo $i" |"$cy"            ~ [cyber] [%MR.S%] [AldykaPrygh]"$i" |"
+echo $i" |"$pu" Contack WhatsApp :"$ku" 085835787069"$i"             |"
+echo $i" |"$pu" Contack Gmail :"$ku" dermawan0858@gmail.com"$i"      |"
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
 echo
 echo $i"────────────────────────────────    ─────"
@@ -56,7 +56,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/D8N9/fbbrute
+git clone https://github.com/FR13ND8/fbbrute
 cd fbbrute
 php fb.php
 fi
@@ -66,7 +66,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/D8N9/Fb-Cracker-v.3
+git clone https://github.com/FR13ND8/Fb-Cracker-v.3
 cd Fb-Cracker-v.3
 python2 crack.py
 fi
@@ -86,7 +86,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/D8N9/mbf
+git clone https://github.com/FR13ND8/mbf
 cd mbf
 python2 MBF.py
 fi
@@ -116,7 +116,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/D8N9/EmailVuln
+git clone https://github.com/FR13ND8/EmailVuln
 cd EmailVuln
 python2 vuln.py
 fi
@@ -126,7 +126,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/D8N9/ProfileGuardFb
+git clone https://github.com/FR13ND8/ProfileGuardFb
 cd ProfileGuardFb
 php guard.php
 fi
@@ -255,8 +255,8 @@ echo $cy"Terima Kasih Sudah Pakai Tool Saya"
 sleep 2
 echo $i"Bila Ada Kesalahan Kamu Bisa Nanya Kepada Saya"
 sleep 2
-echo $ku"WhatsApp :"$i" 03175889358"
-echo $ku"Facebook :"$i" shahdinobaloch15"
+echo $ku"WhatsApp :"$i" 085835787069"
+echo $ku"Facebook :"$i" Riski Darmawan"
 sleep 2
 echo $pur">> Thanks Yang Sudah Support Saya <<"
 exit
